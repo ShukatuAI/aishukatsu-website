@@ -64,8 +64,7 @@ export const company = {
    * 空文字にすると「フォームで相談する」ボタンが非表示になります。
    */
   googleFormUrl:
-    'https://docs.google.com/forms/d/e/1FAIpQLSccCw4yLbQlsTnGTn5T7TQ_7ZPCYjTmjvKb55dpswxlaFmQJA/viewform?usp=header',
-
+    'https://docs.google.com/forms/d/e/1FAIpQLSclv3VDUV__C7z6IyKSavk7Z3kbll-U3j-uqWLfJt8gYPMEVQ/viewform?usp=dialoog',
   /**
    * 会社説明資料 PDF の表示設定。
    * true にすると Hero とフッターに PDF ダウンロードリンクが表示されます。
